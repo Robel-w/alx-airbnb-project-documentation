@@ -1,4 +1,4 @@
-![image png](https://github.com/user-attachments/assets/76ec3cfa-621d-4b23-821b-d0b91a478ff8)
+![data-flow.png](https://github.com/user-attachments/assets/76ec3cfa-621d-4b23-821b-d0b91a478ff8)
 ## 📊 Data Flow Diagram (DFD)
 
 The core of the platform is modeled around a centralized **Database** which branches into multiple domain-specific databases:
